@@ -19,7 +19,7 @@
         background-color: theme('colors.text2');
     }
 
-    /* @media screen and (max-width: 640px) {
+    @media screen and (max-width: 640px) {
         @apply w-3/4;
-    } */
+    }
 }
