@@ -1,6 +1,6 @@
 ### Deployed Url:    https://sketchnextapp-8w51h9b9y-promodps-projects.vercel.app/
 
-### Nextjs and RTK(Redix toolkit)
+### Tech: Nextjs, RTK(Redix toolkit), Tailwind
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
